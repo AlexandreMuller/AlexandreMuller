@@ -22,4 +22,4 @@ I studied **Computer Science** at university, but eventually decided to drop out
 
 ---
 
-> *"Curiosity turned into code."*
+*"Curiosity turned into code."*
