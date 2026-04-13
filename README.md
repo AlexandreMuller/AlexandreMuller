@@ -1,24 +1,37 @@
-# Hey there! 👋 I'm Alexandre A. Müller
+# Alexandre A. Müller
 
 ![Views](https://komarev.com/ghpvc/?username=AlexandreMuller&color=blue&style=flat-square)
 
-I'm a tech enthusiast and hobbyist programmer from **Brazil** 🇧🇷
+Tech enthusiast and hobbyist programmer from **Brazil** 🇧🇷 — curiosity turned into code.
 
 ---
 
-### 🕹️ How it all started
+### 👨‍💻 About Me
 
-My passion for programming, computing, and technology was born from video games during my childhood. So many games shaped who I am today and made me deeply curious about how everything works under the hood.
+My passion for programming was born from video games during childhood — and never stopped growing. I studied **Computer Science** at university, but chose to follow my own path as a self-taught developer, chasing knowledge wherever it leads.
 
-### 🎓 Background
+Currently focused on game engine development and building software tools that scratch my own itch.
 
-I studied **Computer Science** at university, but eventually decided to drop out and move forward on my own terms — chasing my own goals and projects. I'm a self-taught learner who goes after knowledge wherever it may be, no matter the source.
+---
 
-### 💡 What I do
+### 🛠️ Tech Stack
 
-- My programs come from **creative and wild ideas** — mostly for personal use, though some are shared publicly. The majority of my projects are private.
-- I have **tons of ideas and projects** in mind, some already in progress, others waiting their turn. But no promises that everything will leave the drawing board or turn out exactly as planned.
-- Currently focused on **game engine development** and building software tools that are useful to me.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🚀 What I'm Working On
+
+- 🔨 Game Engine — building one based on UPBGE/Blender
+- 🧰 Personal tools and utilities (mostly private)
+- 💡 A backlog of wild ideas waiting their turn
+
+---
+
+### 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandreaugustomuller@outlook.com)
 
 ---
 
