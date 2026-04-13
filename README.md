@@ -29,10 +29,4 @@ Currently focused on game engine development and building software tools that sc
 
 ---
 
-### 📬 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandreaugustomuller@outlook.com)
-
----
-
 *"Curiosity turned into code."*
