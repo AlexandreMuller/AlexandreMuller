@@ -2,7 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=AlexandreMuller&color=blue&style=flat-square)
 
-Tech enthusiast and hobbyist programmer from **Brazil** 🇧🇷 — curiosity turned into code.
+Tech enthusiast and hobbyist programmer from **Brazil** 🇧🇷
 
 ---
 
